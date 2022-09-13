@@ -28,6 +28,18 @@ xplr.config.modes.builtin.default = {
           "FocusNext",
         },
       },
+      k = {
+        help = "up",
+        messages = {
+          "FocusPrevious",
+        },
+      },
+      j = {
+        help = "down",
+        messages = {
+          "FocusNext",
+        },
+      },
       esc = {
         help = "quit",
         messages = {
