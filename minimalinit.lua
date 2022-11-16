@@ -1,4 +1,4 @@
-version="0.19.0"
+version="0.20.0"
 
 xplr.config.layouts.builtin.default = "Table"
 xplr.config.general.panel_ui.default.title.format = "── Course Select "
